@@ -1,0 +1,4 @@
+interface:
+  display_name: "清透CG人像与毛发质感"
+  short_description: "整理人像肌理噪点与脏感，保留细密柔软毛发和清晰自然的视觉层级"
+  default_prompt: "使用 $clean-cg-portrait，根据原图整理跨平台提示词，统一画面质感并保留细密柔软的CG毛发。"
